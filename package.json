@@ -1,0 +1,21 @@
+{
+  "name": "masters-sunday",
+  "displayName": "Masters Sunday",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Masters Sunday Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Masters Sunday Theme-color-theme.json"
+      }
+    ]
+  }
+}

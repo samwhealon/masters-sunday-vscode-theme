@@ -67,7 +67,7 @@
 		"editorSuggestWidget.focusHighlightForeground": "#F200A9",
 		"editorSuggestWidget.highlightForeground": "#f4dc06",
 		"editorSuggestWidget.selectedForeground": "#F200A9",
-		"editor.hoverHighlightBackground": "#ff0000",
+		"editor.hoverHighlightBackground": "#eef52d60",
 		"statusBar.background": "#f4dc06",
 		"statusBar.foreground": "#3FA46C",
 		"statusBar.noFolderBackground": "#3FA46C",
@@ -75,7 +75,9 @@
 		"tab.hoverForeground": "#F200A9",
         "tab.activeForeground": "#ffffff",
         "tab.hoverBackground": "#3FA46CB0",
-        "editor.wordHighlightBackground": "#3FA46Cf0"
+        "editor.wordHighlightBackground": "#3FA46Cf0",
+        "gitDecoration.modifiedResourceForeground": "#e6f680",
+        "gitDecoration.addedResourceForeground": "#3FA46C"
 	},
 	"tokenColors": [
 		{

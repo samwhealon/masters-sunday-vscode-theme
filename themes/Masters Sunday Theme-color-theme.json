@@ -73,11 +73,11 @@
 		"statusBar.noFolderBackground": "#3FA46C",
 		"statusBar.debuggingBackground": "#F200A9",
 		"tab.hoverForeground": "#F200A9",
-        "tab.activeForeground": "#ffffff",
-        "tab.hoverBackground": "#3FA46CB0",
-        "editor.wordHighlightBackground": "#3FA46Cf0",
-        "gitDecoration.modifiedResourceForeground": "#e6f680",
-        "gitDecoration.addedResourceForeground": "#3FA46C"
+		"tab.activeForeground": "#ffffff",
+		"tab.hoverBackground": "#3FA46CB0",
+		"editor.wordHighlightBackground": "#3FA46Cf0",
+		"gitDecoration.modifiedResourceForeground": "#e6f680",
+		"gitDecoration.addedResourceForeground": "#3FA46C"
 	},
 	"tokenColors": [
 		{

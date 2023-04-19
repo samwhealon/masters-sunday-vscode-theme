@@ -2,6 +2,11 @@
   "name": "masters-sunday",
   "displayName": "Masters Sunday",
   "description": "",
+  "publisher": "whealon-dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/samwhealon/masters-sunday-vscode-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.77.0"

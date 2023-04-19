@@ -1,12 +1,15 @@
 {
 	"name": "Masters Sunday Theme",
 	"colors": {
-		"activityBar.activeBackground": "#ffe616",
+		"activityBar.activeBackground": "#3FA46C",
 		"activityBar.activeFocusBorder": "#c4ef05",
 		"activityBar.foreground": "#036647",
 		"activityBar.background": "#036647",
 		"activityBar.inactiveForeground": "#ffe616",
+		"activityBar.activeBorder": "#0076A8",
+		"activityBar.border": "#0076A8",
 		"breadcrumb.background": "#036647",
+		"statusBarItem.activeBackground": "#ff0000",
 		"sideBar.background": "#3FA46C",
 		"sideBar.foreground": "#d1efe3",
 		"sideBar.dropBackground": "#0076A8",
@@ -57,7 +60,7 @@
 		"tab.inactiveForeground": "#3FA46C",
 		"tab.unfocusedInactiveForeground": "#F200A9",
 		"tab.inactiveModifiedBorder": "#ffe616",
-		"tab.unfocusedHoverBackground": "#ffe616",
+		"tab.unfocusedHoverBackground": "#3FA46CB0",
 		"editorWidget.background": "#036647",
 		"editorWidget.border": "#ffe616",
 		"editorWidget.foreground": "#d9f8db",
@@ -138,7 +141,8 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#cfa2ed",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -182,8 +186,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#FF934F",
-				"fontStyle": "bold"
+				"foreground": "#f5a472"
 			}
 		},
 		{
@@ -242,8 +245,7 @@
 				"source.python"
 			],
 			"settings": {
-				"foreground": "#f3f1f1",
-				"fontStyle": "bold"
+				"foreground": "#f3f1f1"
 			}
 		},
 		{
@@ -302,7 +304,6 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#FF5370"
 			}
 		},

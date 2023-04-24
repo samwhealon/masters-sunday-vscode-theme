@@ -1,5 +1,6 @@
 {
 	"name": "Masters Sunday Theme",
+	"type": "dark",
 	"colors": {
 		"activityBar.activeBackground": "#3FA46C",
 		"activityBar.activeFocusBorder": "#c4ef05",
